@@ -1,0 +1,15 @@
+{
+  "main": "",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "10.9.2",
+    "typescript": "5.5.3"
+  },
+  "volta": {
+    "node": "22.4.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "Node16",
+    "lib": ["esnext", "DOM"],
+    "strict": true,
+    "moduleResolution": "node16",
+    "sourceMap": true,
+    "esModuleInterop": true
+  },
+  "ts-node": {
+    "files": true
+  }
+}
