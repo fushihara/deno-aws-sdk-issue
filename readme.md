@@ -1,3 +1,5 @@
+Executing this reproduced code will result in communication to httpbin.org.
+
 # Deno
 ```
 > cd 1-deno
